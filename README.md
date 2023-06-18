@@ -12,7 +12,7 @@ git drectory: a place that know exact checkpoint
 
 
 main/master========||=========================||=================================||===================||
-        17/06 -11:38am              11:41                              11:43                         11:50
+        18/06 -11:39am              11:41                              11:43                         11:50
         readme.md                   initial project                   delete readme
                                     I am here!
                                     ||
