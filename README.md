@@ -24,4 +24,5 @@ main/master========||=========================||================================
                                                   text.txt
 
 what is git? a tool that track version of code
+what is github? a cloud server that store code
 
